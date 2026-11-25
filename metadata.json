@@ -1,0 +1,6 @@
+{
+  "name": "New York Times EN-CN Bilingual-text Downloader",
+  "description": "《纽约时报》英汉双语文本获取（cn.nytimes.com）、左右对齐（标题首行）、全文语料处理与批量 XLSX 导出工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
